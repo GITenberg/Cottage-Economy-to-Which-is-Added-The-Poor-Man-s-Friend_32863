@@ -22,6 +22,8 @@ description: "Cottage Economy is a book by William Cobbett, first published in 1
   \ a Labourer's Family\" with the aim of aiding the \"Labouring Classes\" in having\
   \ a \"good living\". It is considered to be a timeless guide on matters of self-sufficiency.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32863#Cottage-Economy-to-Which-is-Added-The-Poor-Man-s-Friend
 gutenberg_issued: '2010-06-17'
 gutenberg_type: Text
 identifiers:
