@@ -1,0 +1,43 @@
+_repo: Cottage-Economy-to-Which-is-Added-The-Poor-Man-s-Friend_32863
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cobbett, William
+    aliases:
+    - Cobbett, Wm. (William)
+    - Cobbet, William
+    - Retort, Dick
+    - Porcupine, Peter
+    birthdate: 1763
+    deathdate: 1835
+    gutenberg_agent_id: '6098'
+    url: http://www.gutenberg.org/2009/agents/6098
+    wikipedia: http://en.wikipedia.org/wiki/William_Cobbett
+description: "Cottage Economy is a book by William Cobbett, first published in 1821,\
+  \ which covers many practical instructions such how to bake bread, brew beer, keep\
+  \ livestock and \"other matters deemed useful in the conducting of the Affairs of\
+  \ a Labourer's Family\" with the aim of aiding the \"Labouring Classes\" in having\
+  \ a \"good living\". It is considered to be a timeless guide on matters of self-sufficiency.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2010-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32863'
+  lccn: '49036921'
+  wikidata: Q16952105
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'S'
+- !lcsh 'Agriculture'
+- !lcsh 'Poor laws -- Great Britain'
+- !lcsh 'Home economics'
+title: Cottage Economy, to Which is Added The Poor Man's Friend
+url: http://www.gutenberg.org/ebooks/32863
+wikipedia:
+- https://en.wikipedia.org/wiki/Cottage_Economy
